@@ -8,6 +8,8 @@ from [info is beautiful](http://www.informationisbeautiful.net/visualizations/th
 
 [RAW](http://app.raw.densitydesign.org/#/)
 
+[WTF CSV](https://www.databasic.io/en/wtfcsv/#upload)
+
 [Voyager](http://vega.github.io/voyager/)
 
 [Lyra](http://idl.cs.washington.edu/projects/lyra/app/)
