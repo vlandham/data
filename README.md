@@ -18,3 +18,7 @@ similar to [my piece](http://vallandingham.me/vis/movie/)
 [Voyager](http://vega.github.io/voyager/)
 
 [Lyra](http://idl.cs.washington.edu/projects/lyra/app/)
+
+# Slides
+
+[SpeakerDeck](https://speakerdeck.com/vlandham/what-is-data-vis)
